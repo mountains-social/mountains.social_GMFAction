@@ -1,5 +1,5 @@
 {
     "FakeRelayUrl": "https://fakerelay.gervas.io",
     "Tags": [ "hiking", "mountaineering", "backpacking", "trailrunning", "outdoors", "camping", "wandern"],
-    "Instances": [ "mstdn.social", "mastodon.social", "outdoors.lgbt"]
+    "Instances": [ "mstdn.social", "mastodon.social", "outdoors.lgbt", "masto.ai"]
 }
