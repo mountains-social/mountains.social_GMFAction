@@ -1,5 +1,5 @@
 {
     "FakeRelayUrl": "https://fakerelay.gervas.io",
-    "Tags": [ "dotnet", "csharp" ],
-    "Instances": [ "hachyderm.io", "mastodon.social" ]
+    "Tags": [ "hiking", "mountaineering", "backpacking", "trailrunning", "outdoors", "camping", "wandern"],
+    "Instances": [ "outdoors.lgbt"]
 }
