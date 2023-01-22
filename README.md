@@ -1,5 +1,7 @@
 # GMFAction for Mastodon instance mountains.social
 
+Adjusted config file to accommodate mountains.social specific interests
+
 ## Info from forked repository:
 
 This project is just a demo of how you can run [GetMoarFediverse](https://github.com/g3rv4/GetMoarFediverse) as a GitHub Action to populate your Mastodon instance every 15 minutes.
