@@ -1,6 +1,6 @@
 # GMFAction for Mastodon instance mountains.social
 
-Adjusted config file to accommodate mountains.social specific interests
+Adjusted config.json file to accommodate mountains.social specific interests
 
 ## Info from forked repository:
 
