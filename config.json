@@ -1,5 +1,5 @@
 {
     "FakeRelayUrl": "https://fakerelay.gervas.io",
-    "Tags": [ "hiking", "mountaineering", "backpacking", "trailrunning", "outdoors", "camping", "wandern", "klettern", "kayaking", "bergsteigen", "mountains", "caving", "potholing", "iceclimbing", "peakbagging", "diving", "freediving", "skiing", "xcski", "mountainbiking", "mountainbike", "mtb","backcountry", "skijoring", "BackcountrySki", "skijor", "SkiTouring", "Canicross", "Mushing", "SledDogs", "bushwalking", "nextcloud", "jitsi", "bitwarden", "photoprism", "pihole", "mastoadmin"],
+    "Tags": [ "hiking", "mountaineering", "backpacking", "trailrunning", "outdoors", "camping", "wandern", "klettern", "kayaking", "bergsteigen", "mountains", "caving", "potholing", "iceclimbing", "peakbagging", "diving", "freediving", "skiing", "xcski", "mountainbiking", "mountainbike", "mtb","backcountry", "skijoring", "BackcountrySki", "skijor", "SkiTouring", "Canicross", "Mushing", "SledDogs", "bushwalking", "nextcloud", "jitsi", "jitsiadmin", "bitwarden", "photoprism", "pihole", "mastoadmin"],
     "Instances": [ "mstdn.social", "mastodon.social", "outdoors.lgbt", "masto.ai", "universeodon.com", "mas.to", "swiss.social", "mastodon.nz", "aus.social", "mastodon.scot", "mstdn.ca", "mediastodon.com", "mastodon.nu", "climatejustice.social", "mastodon.online", "fosstodon.org"]
 }
