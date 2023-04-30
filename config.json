@@ -186,9 +186,12 @@
     "dmv.community",
     "doghub.eu",
     "fosstodon.org",
+    "freeradical.zone",
     "hachyderm.io",
+    "hackers.town",
     "home.social",
     "ioc.exchange",
+    "inductive.space",
     "infosec.exchange",
     "loforo.com",
     "mamot.fr",
@@ -199,6 +202,7 @@
     "mastodon.art",
     "mastodon.au",
     "mastodon.cloud",
+    "mastodon.energy",
     "mastodon.green",
     "mastodon.ie",
     "mastodon.lol",
@@ -214,6 +218,7 @@
     "mastodon.world",
     "mastodon.xyz",
     "mastodonapp.uk",
+    "mastodontech.de",
     "mathstodon.xyz",
     "mediastodon.com",
     "micro.blog",
@@ -225,6 +230,7 @@
     "newsie.social",
     "noc.social",
     "norcal.social",
+    "nuernberg.social",
     "oeav",
     "ohai.social",
     "outdoors.lgbt",
@@ -242,7 +248,8 @@
     "toot.wales",
     "tooting.ch",
     "troet.cafe",
-    "universeodon.com"
+    "universeodon.com",
+    "vivaldi.net"
   ]
 }
 
