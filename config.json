@@ -252,7 +252,6 @@
     "fosstodon.org",
     "graz.social",
     "hachyderm.io",
-    "hackers.town",
     "ioc.exchange",
     "infosec.exchange",
     "mamot.fr",
@@ -285,7 +284,6 @@
     "mstdn.party",
     "mstdn.plus",
     "mstdn.social",
-    "mozilla.social",
     "nerdculture.de",
     "newsie.social",
     "noc.social",
@@ -298,16 +296,14 @@
     "social.tchncs.de",
     "social.vivaldi.net",
     "sueden.social",
-    "swiss-talk.net",
     "swiss.social",
     "techhub.social",
     "toot.community",
     "toot.wales",
     "tooting.ch",
     "troet.cafe",
-    "universeodon.com",
-    "vmst.io"
-  ]
+    "universeodon.com"
+   ]
 }
 
 
